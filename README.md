@@ -1,6 +1,6 @@
 ## Hi there 👋
 i am a developer of applications multi platforms.</br>
-i use java and c#, but mainly i am a c# dev.
+i use java and c#, but mainly i am a c# dev.</br>
 https://iam-theoverlord.github.io
 <!--
 **Iam-TheOverlord/Iam-TheOverlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
