@@ -1,5 +1,5 @@
 ## Hi there 👋
-i am a developer of applications multi platforms.
+i am a developer of applications multi platforms.</br>
 i use java and c#, but mainly i am a c# dev.
 
 <!--
